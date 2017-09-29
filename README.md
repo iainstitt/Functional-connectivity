@@ -27,8 +27,6 @@ Output:
        
 For this script you will need to have the MVGC toolbox in your path. You
 can find the website for the toolbox here: http://users.sussex.ac.uk/~lionelb/MVGC/
-Or you can also just copy the code from the following folder in my
-codebase: C:\Users\FrohlichLab\Dropbox (Frohlich Lab)\Codebase\CodeIain\mainCode\Code\mvgc_v1.0
 
 is_spikePV.m: 
 
