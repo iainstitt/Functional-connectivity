@@ -1,12 +1,13 @@
 This function computes various metrics of functional and effective
 connectivity time-locked to certain behavioral/stimulation events, including:
+
 	* Spectral power
 	* Phase locking value
  	* Coherence
  	* Imaginary coherence
  	* Phase slope index
  	* Granger causality
- 
+
 This code also generates a single plot where you can compare all of the
 above-mentioned metrics. 
 Input: - xser  (time series from one brain region)
